@@ -2,3 +2,7 @@
 body {
     font-family: Arial, sans-serif;
 }
+/* Header Margin Fix */
+header {
+    margin-bottom: 20px;
+}
