@@ -2,3 +2,9 @@
 body {
     font-family: Arial, sans-serif;
 }
+/* Subscribe Button */
+.subscribe-btn {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+}
