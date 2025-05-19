@@ -2,3 +2,15 @@
 body {
     font-family: Arial, sans-serif;
 }
+/* Subscribe Button */
+.subscribe-btn {
+    background-color: #000000;
+    color: yellow;
+    padding: 15px;
+}
+
+/* Dark Theme */
+body.dark {
+    background-color: #121212;
+    color: #e0e0e0;
+}
